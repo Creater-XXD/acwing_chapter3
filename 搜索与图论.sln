@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树与图的广度优先遍历（图中点的层次）", "树与图的广度优先遍历（图中点的层次）\树与图的广度优先遍历（图中点的层次）.vcxproj", "{46391B88-3D52-40B0-933F-F6204B1BFE33}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树与图的深度优先遍历(树的重心)", "树与图的深度优先遍历(树的重心)\树与图的深度优先遍历(树的重心).vcxproj", "{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{46391B88-3D52-40B0-933F-F6204B1BFE33}.Release|x64.Build.0 = Release|x64
 		{46391B88-3D52-40B0-933F-F6204B1BFE33}.Release|x86.ActiveCfg = Release|Win32
 		{46391B88-3D52-40B0-933F-F6204B1BFE33}.Release|x86.Build.0 = Release|Win32
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Debug|x64.ActiveCfg = Debug|x64
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Debug|x64.Build.0 = Debug|x64
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Debug|x86.Build.0 = Debug|Win32
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Release|x64.ActiveCfg = Release|x64
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Release|x64.Build.0 = Release|x64
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Release|x86.ActiveCfg = Release|Win32
+		{16AEA5FD-D555-47BB-B400-D767DFC0ACC0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
