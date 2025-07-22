@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树与图的深度优先遍
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有向图的拓扑排序", "有向图的拓扑排序\有向图的拓扑排序.vcxproj", "{9C070896-B71A-4B54-A179-D38F0FE5B293}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra求最短路 I(朴素版)", "Dijkstra求最短路 I(朴素版)\Dijkstra求最短路 I(朴素版).vcxproj", "{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9C070896-B71A-4B54-A179-D38F0FE5B293}.Release|x64.Build.0 = Release|x64
 		{9C070896-B71A-4B54-A179-D38F0FE5B293}.Release|x86.ActiveCfg = Release|Win32
 		{9C070896-B71A-4B54-A179-D38F0FE5B293}.Release|x86.Build.0 = Release|Win32
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Debug|x64.ActiveCfg = Debug|x64
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Debug|x64.Build.0 = Debug|x64
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Debug|x86.Build.0 = Debug|Win32
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Release|x64.ActiveCfg = Release|x64
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Release|x64.Build.0 = Release|x64
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Release|x86.ActiveCfg = Release|Win32
+		{0CFE8AD9-0358-4081-9C72-C63D8D7996EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
