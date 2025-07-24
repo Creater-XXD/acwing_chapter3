@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra求最短路 I(朴�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra最短路(小顶堆优化版mlogn)", "Dijkstra最短路(小顶堆优化版mlogn)\Dijkstra最短路(小顶堆优化版mlogn).vcxproj", "{1B03861C-8E71-4295-BB6D-33175D67681A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有边数限制的最短路(bellman-ford)", "有边数限制的最短路(bellman-ford)\有边数限制的最短路(bellman-ford).vcxproj", "{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{1B03861C-8E71-4295-BB6D-33175D67681A}.Release|x64.Build.0 = Release|x64
 		{1B03861C-8E71-4295-BB6D-33175D67681A}.Release|x86.ActiveCfg = Release|Win32
 		{1B03861C-8E71-4295-BB6D-33175D67681A}.Release|x86.Build.0 = Release|Win32
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Debug|x64.ActiveCfg = Debug|x64
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Debug|x64.Build.0 = Debug|x64
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Debug|x86.Build.0 = Debug|Win32
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Release|x64.ActiveCfg = Release|x64
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Release|x64.Build.0 = Release|x64
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Release|x86.ActiveCfg = Release|Win32
+		{C3D24D1C-86A0-4AB6-8127-9D95853E09DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
