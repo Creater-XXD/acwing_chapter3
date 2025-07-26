@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有边数限制的最短路
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spfa求最短路", "spfa求最短路\spfa求最短路.vcxproj", "{13F36BD7-692E-4DF7-AC34-829217582F55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spfa判断负环", "spfa判断负环\spfa判断负环.vcxproj", "{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{13F36BD7-692E-4DF7-AC34-829217582F55}.Release|x64.Build.0 = Release|x64
 		{13F36BD7-692E-4DF7-AC34-829217582F55}.Release|x86.ActiveCfg = Release|Win32
 		{13F36BD7-692E-4DF7-AC34-829217582F55}.Release|x86.Build.0 = Release|Win32
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Debug|x64.ActiveCfg = Debug|x64
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Debug|x64.Build.0 = Debug|x64
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Debug|x86.Build.0 = Debug|Win32
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Release|x64.ActiveCfg = Release|x64
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Release|x64.Build.0 = Release|x64
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Release|x86.ActiveCfg = Release|Win32
+		{4AE2C233-7111-46A1-8D96-8C9E62D92BC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
